@@ -1,9 +1,12 @@
 # simple-manpage-generator
 
-Project Name: simple-manpage-generator
-Project Description: A simple shell script creating a simple manpage from some information about your project (program name, program parameters, etc.)
-Project License: MIT-License
-Used Technology: Linux-Manpage-Files (roff-texts) and Unix-Shell-Scripts (sh not bash)
+**Project Name:** simple-manpage-generator
+
+**Project Description:** A simple shell script creating a simple manpage from some information about your project (program name, program parameters, etc.)
+
+**Project License:** MIT-License
+
+**Used Technology:** Linux-Manpage-Files (roff-texts) and Unix-Shell-Scripts (sh not bash)
 
 ## Usage
 
