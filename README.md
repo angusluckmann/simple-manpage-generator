@@ -15,7 +15,7 @@ To use this repository, you can either directly copy and edit the "template.1"-f
 1. `chmod +x create-manpage.sh`
 2. `./create-manpage.sh`
 
-Then, after you have successfully created your manpage, you can either continue to edit the manpage in a text-editor orr you can preview it with...
+Then, after you have successfully created your manpage, you can either continue to edit the manpage in a text-editor or you can preview it with...
 
 `man -l [name of manpage-file]`
 
